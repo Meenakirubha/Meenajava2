@@ -4,7 +4,7 @@ public class Akalya {
         Scanner a=new Scanner(System.in);
         System.out.println("Enter your number:");
         int num =  a.nextInt();
-        if (num >=18) 
+        if (num >=21) 
         {
             System.out.println(num +" Eligible Person");
         }
